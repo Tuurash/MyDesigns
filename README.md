@@ -1,3 +1,3 @@
 # MyDesigns
 ;) spare times
-![](ForSCholario/1.jpg)
+![](ForSCholario/1.png)
